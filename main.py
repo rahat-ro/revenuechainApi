@@ -1,5 +1,5 @@
 import json
-from flask import Flask, Response, request, jsonify
+from flask import Flask, Response, request
 from bson import json_util
 from flask_pymongo import PyMongo
 
